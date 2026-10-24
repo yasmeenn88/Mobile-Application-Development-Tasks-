@@ -6,3 +6,6 @@
 <h2>TASK 1</h2>
 
 <img src="images/task1.png" width="600">
+
+---
+<h2>TASK 2</h2>
