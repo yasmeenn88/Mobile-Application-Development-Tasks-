@@ -9,4 +9,5 @@
 
 ---
 <h2>TASK 2</h2>
-<video src="https://github.com/yasmeenn88/Mobile-Application-Development-Tasks-/blob/main/Task2/task2_vid" controls width="600"></video>
+
+<img src="Task2/task2gif.gif" alt="Task 2 Demo" width="600">
